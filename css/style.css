@@ -8,7 +8,7 @@
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #a26a4e;
+  background-color: #ebb533;
 }
 p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -19,7 +19,7 @@ p {
   margin: auto;
 }
 header {
-  background-color: red;
+  background-color: #cb2600;
   text-align: center;
   color: white;
   padding: 10px;
@@ -62,7 +62,7 @@ select {
 input[type="submit"] {
   /*será aplicado apenas nos input's do tipo submit*/
   color: white;
-  background-color: red;
+  background-color: #cb2600;
   font-weight: bold;
 }
 select {
@@ -115,6 +115,7 @@ footer {
 }
 address {
   font-size: 15px;
+  color: black;
 }
 .iconwhat {
   margin-left: 5px;
