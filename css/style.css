@@ -13,7 +13,6 @@ body {
 p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   text-align: justify;
-  text-indent: 3em;
 }
 .container {
   max-width: 1000px;
