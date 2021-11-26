@@ -100,6 +100,9 @@ footer {
   margin-left: 40px;
   text-align: left;
 }
+.description > p {
+  text-indent: 3em;
+}
 .description p,
 .description h3 {
   margin-bottom: 30px;
