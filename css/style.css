@@ -134,4 +134,10 @@ address {
   .formcontainer {
     max-width: max-content;
   }
+  .picture {
+    max-width: max-content;
+  }
+  .description {
+    max-width: max-content;
+  }
 }
