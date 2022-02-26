@@ -99,7 +99,6 @@ footer {
   color: black;
   max-width: 45%;
   display: inline-block;
-  
 }
 .description > p {
   text-indent: 3em;
@@ -114,11 +113,6 @@ footer {
   font-size: 2rem;
   font-family: "Patrick Hand", cursive;
   text-align: center;
-}
-.flex-container {
-  display: flex;
-  height: 18px;
-  justify-content: center;
 }
 address {
   font-size: 15px;
